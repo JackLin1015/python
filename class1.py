@@ -72,3 +72,5 @@ print(f"我老婆{name},今年{age}歲,存款{money}")
 # print("1*1是%d"%(1*1))
 # print(f"1*2是{1*2}")
 # print("字符串的類型%s"%(type("字符串")))
+
+print("你好")
